@@ -1,0 +1,11 @@
+{
+  "name": "quadProject",
+  "version": "0.0.1",
+  "description": "quad",
+  "dependencies": {
+    "express": "^4.12.4",
+    "rpi-gpio": "^0.5.2",
+    "serialport": "^1.7.4",
+    "socket.io": "^1.3.5"
+  }
+}
