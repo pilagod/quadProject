@@ -803,7 +803,7 @@ section * {
   background-size: cover;
   opacity: 20;
   filter: alpha(opacity=2000);
-  opacity: 0.2;
+  opacity: 0.5;
   filter: alpha(opacity=20);
 }
 @media (max-width: 768px) {
